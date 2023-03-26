@@ -1,3 +1,2 @@
 # JavaScript
-
-#I made a series of Algorithmic Thinking applications in the Java Script language
+#I started a series of applications in the area of ​​Algorithmic Thinking made in the Java programming language
